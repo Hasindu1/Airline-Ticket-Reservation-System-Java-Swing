@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="JavaApplication27PU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>javaapplication27.entity.Passanger</class>
+    <class>javaapplication27.entity.Login</class>
+    <class>javaapplication27.entity.Seat</class>
+    <class>javaapplication27.entity.Payment</class>
+    <class>javaapplication27.entity.Bookedseats</class>
+    <class>javaapplication27.entity.Customer</class>
+    <class>javaapplication27.entity.Adminlogin</class>
+    <class>javaapplication27.entity.Flight</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/Final1"/>
+      <property name="javax.persistence.jdbc.user" value="hasindu"/>
+      <property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.ClientDriver"/>
+      <property name="javax.persistence.jdbc.password" value="hasindu"/>
+    </properties>
+  </persistence-unit>
+</persistence>

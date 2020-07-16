@@ -1,0 +1,10 @@
+Normal User:  Hasindu	Date:2019-02-23 02:02:54
+Date:2019-02-23 02:02:04
+Searched Flights
+Date:2019-02-23 02:02:19	Searched selected flight
+Date:2019-02-23 02:02:24	Searched selected seats
+Date:2019-02-23 02:02:00	Clicked procedd button on Payment details page
+Date:2019-02-23 02:02:24	clicked continue button on passanger pass page
+Date:2019-02-23 02:02:32	clicked home button on Passanger pass page
+Admin user:  Hasindu	Date:2019-02-23 02:02:54
+Normal User:  Hasindu	Date:2019-02-23 02:02:08
