@@ -47,7 +47,7 @@ As an Admin he can manage all the flights by adding new flight plans and he can 
 
  ## 👨🏼‍💻 Contributors
  
-* Hasindu Dahanayake(Myself)
+* Hasindu Dahanayake(My self)
 
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Hasindu1-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Hasindu1)
