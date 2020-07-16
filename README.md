@@ -40,10 +40,7 @@ As an Admin he can manage all the flights by adding new flight plans and he can 
   <img src="../master/images/adminhome.PNG"/>
  </p>
  
-  <p align="middle">
-  <img src="../master/images/adminfunctions.PNG"/>
- </p>
- 
+  
 
  ## 👨🏼‍💻 Contributors
  
