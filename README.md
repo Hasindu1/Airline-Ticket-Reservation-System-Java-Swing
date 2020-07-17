@@ -9,11 +9,12 @@
 
 ### Frameworks and Libs
 ![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
+![JPAHibernate](https://img.shields.io/badge/Library-JPAHibernate-blue) 
 
 
 ### Technologies and APIs
 ![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-blue) 
-![JavaMultiThreading](https://img.shields.io/badge/Technology-JavaMultiThreading-blue) 
+
 
 
 ### Tools ,Databases and servers
